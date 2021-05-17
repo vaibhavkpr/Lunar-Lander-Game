@@ -1,7 +1,7 @@
 #
 # Lunar Lander
 
-The Space Probe Landing Simulator Game \\t\\t\\t\\t-Vaibhav Kapoor
+The Space Probe Landing Simulator Game -Vaibhav Kapoor
 
 With limited fuel on board, you will oversee the landing Nasa&#39;s Lunar Probe on the surface of the Moon. Using your exceptional piloting skills guide the probe out of the space station base orbiting the moon and while avoiding floating debris and asteroids, drift the probe down towards the surface for a soft landing without damaging the space exploration instruments on board.
 
@@ -9,13 +9,13 @@ The current version of the simulator features one level with a startup screen an
 
 # Menu Screen
 
-![](RackMultipart20210517-4-1kcd2fu_html_e35abfdeb525e195.png)
+![MenuScreen](MenuScreen.png)
 
 # Level 1 (Moon Environment)
 
-![](RackMultipart20210517-4-1kcd2fu_html_5d9effa40f32a902.png)
+![MoonLevelUndocking](InGame1.png)
 
-![](RackMultipart20210517-4-1kcd2fu_html_dee6d35fba84e3ff.png)
+![MoonLevelLandingSequence](InGame2.png)
 
 # Controls
 
