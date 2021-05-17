@@ -9,15 +9,17 @@ The current version of the simulator features one level with a startup screen an
 
 # Menu Screen
 
-![MenuScreen](MenuScreen.png)
+![MenuScreen](/Game Screenshots/MenuScreen.png)
 
 # Level 1 (Moon Environment)
 
-![MoonLevelUndocking](InGame1.png)
+![MoonLevelUndocking](/Game Screenshots/InGame1.png)
 
-![MoonLevelLandingSequence](InGame2.png)
+![MoonLevelLandingSequence](/Game Screenshots/InGame2.png)
 
 # Controls
 
-A ![](RackMultipart20210517-4-1kcd2fu_html_50af881b84431fd9.jpg) rrow keys are the primary controls for the simulator. Top Arrow serves to control the main thrusters, Left and Right Arrow keys control the sway and rotation of the probe and lastly the Down Arrow controls the reverse Thrusters.
+![Contol Keys](/Game Screenshots/Controls.jpg) 
+
+Arrow keys are the primary controls for the simulator. Top Arrow serves to control the main thrusters, Left and Right Arrow keys control the sway and rotation of the probe and lastly the Down Arrow controls the reverse Thrusters.
 
