@@ -8,13 +8,11 @@ public class MenuState extends State {
 	
 	private Background bg;
 	private int currentChoice = 0;
-	private String[] options = {"Start", "Help", "Quit"};
-	
+	private String[] options = {"Start", "Help", "Quit"};	
 	private Color titleColor;
 	private Color optionColor;
 	private Font titleFont;
-	private Font font;
-	
+	private Font font;	
 	private Graphics2D g;
 
 	public MenuState(StateMgr stateMgr) {
