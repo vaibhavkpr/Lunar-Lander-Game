@@ -19,5 +19,5 @@ The current version of the simulator features one level with a startup screen an
 
 # Controls
 
-|![Contol Keys](/Screenshots/Controls.jpg)|Arrow keys are the primary controls for the simulator. Top Arrow serves to control the main thrusters, Left and Right Arrow keys control the sway and rotation of the probe and lastly the Down Arrow controls the reverse Thrusters.|
+A![Contol Keys](/Screenshots/Controls.jpg) rrow keys are the primary controls for the simulator. Top Arrow serves to control the main thrusters, Left and Right Arrow keys control the sway and rotation of the probe and lastly the Down Arrow controls the reverse Thrusters.
 
