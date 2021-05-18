@@ -11,7 +11,7 @@ The current version of the simulator features one level with a startup screen an
 
 ![MenuScreen](/Screenshots/MenuScreen.png)
 
-# Level 1 (Moon Environment)
+# In Game Level 1 (Moon Environment) Screen
 
 ![MoonLevelUndocking](/Screenshots/InGame1.png)
 
