@@ -9,7 +9,7 @@ The current version of the simulator features one level with a startup screen an
 
 # Simulator Demo
 
-![Demo](/Screenshots/Demo.gif)
+![Demo](/Screenshots/demo.gif)
 
 # Menu Screen
 
