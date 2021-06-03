@@ -7,6 +7,10 @@ With limited fuel on board, you will oversee the landing Nasa&#39;s Lunar Probe 
 
 The current version of the simulator features one level with a startup screen and the moon level. With future updates, additional environments and obstacles will be added for the player to navigate through. The game was prototyped in Processing for proof on concept and is now being fully converted to Java.
 
+# Simulator Demo
+
+![Demo](/Screenshots/Demo.gif)
+
 # Menu Screen
 
 ![MenuScreen](/Screenshots/MenuScreen.png)
